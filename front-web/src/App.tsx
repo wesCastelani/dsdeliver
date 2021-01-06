@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import Navbar from './Navbar/index';
 import './App.css';
+import Home from './Home/Home';
+import Routes from './Routes';
 
 function App() {
   return (
-    <div>
-      <Navbar />
-    </div>
+    <>
+      <Routes />
+    </>
   );
 }
 
