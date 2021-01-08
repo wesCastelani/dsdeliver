@@ -10,13 +10,13 @@ export default function Footer() {
     <footer className="main-footer">
       App desenvolvido durante a segunda edição do semana DevSuperior
       <div className="footer-icons">
-        <a href="#" target="_new">
+        <a href="http://youtube.com/" target="_new">
           <YoutubeIcon />
         </a>
-        <a href="#" target="_new">
+        <a href="https://www.linkedin.com/in/wesley-castelani/" target="_new">
           <LinkedinIcon />
         </a>
-        <a href="#" target="_new">
+        <a href="https://www.instagram.com/" target="_new">
           <InstagramIcon />
         </a>
       </div>
